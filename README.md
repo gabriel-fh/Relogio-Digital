@@ -13,10 +13,6 @@ Este é um projeto de um relógio digital simples feito em HTML, CSS e JavaScrip
 - CSS
 - JavaScript
 
-## Pré-requisitos
-
-Antes de executar o relógio digital, certifique-se de ter um navegador web atualizado instalado em seu dispositivo.
-
 ## Como usar
 
 1. Faça o download ou clone este repositório.
